@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.logo {
+    height: 150px;
+    width: 150px
+}
+
+#main {
+    background-color: tomato;
+}
+
+#panel {
+    height: fit-content;
+    width: 100%;
+    background-color: grey;
+}
+
+#img {
+    height: 300px;
+    width: 250px;
+}
